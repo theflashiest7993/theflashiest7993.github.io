@@ -1,3 +1,3 @@
-# Tharun's Personal Website
-This is a personal website built using the Hack4Impact Starter Pack!
-<You can add any description you want here.>
+#Tharun's Personal Website
+This is a personal website built using my intelligence!
+[Visit it Here!](https://theflashiest7993.github.io)
